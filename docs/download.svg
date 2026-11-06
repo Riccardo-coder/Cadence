@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="52" viewBox="0 0 280 52" role="img" aria-label="Download Cadence.exe">
+  <title>Download Cadence.exe</title>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#5ee891"/>
+      <stop offset="1" stop-color="#3fd474"/>
+    </linearGradient>
+    <clipPath id="c"><rect x="1" y="1" width="278" height="50" rx="25.0"/></clipPath>
+  </defs>
+  <rect x="0.5" y="0.5" width="279" height="51" rx="25.5" fill="url(#g)" stroke="#2fb862"/>
+  <rect x="0" y="0" width="280" height="26.0" fill="#ffffff" opacity="0.12" clip-path="url(#c)"/>
+  <g transform="translate(26 15.0)" fill="none" stroke="#07130c" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M11 2v12M5.5 9l5.5 5.5L16.5 9M3 20h16"/>
+  </g>
+  <text x="58" y="32.0" textLength="194" lengthAdjust="spacingAndGlyphs" fill="#07130c"
+        font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="17" font-weight="700">Download Cadence.exe</text>
+</svg>

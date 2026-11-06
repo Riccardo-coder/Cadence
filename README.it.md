@@ -16,7 +16,7 @@
 
 <br>
 
-[![Scarica Cadence.exe](https://img.shields.io/badge/Scarica-Cadence.exe-4ade80?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDcxMzBjIiBzdHJva2Utd2lkdGg9IjIuNiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMTIgNHYxMU03IDEwbDUgNSA1LTVNNSAyMGgxNCIvPjwvc3ZnPg==&labelColor=4ade80&logoColor=07130c)](https://github.com/Riccardo-coder/Cadence/releases/latest/download/Cadence.exe)
+<a href="https://github.com/Riccardo-coder/Cadence/releases/latest/download/Cadence.exe"><img src="docs/download-it.svg" alt="Scarica Cadence.exe" height="52"></a>
 
 <sub>Sempre l'ultima versione · Windows 10 e 11 · <a href="../../releases/latest">installer e versioni precedenti</a></sub>
 
