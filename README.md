@@ -22,9 +22,23 @@
 
 <br><br>
 
-<img src="docs/screenshot.png" alt="Cadence: main screen, Minecraft settings and app settings" width="100%">
+<img src="docs/screenshot.png" alt="Cadence: main screen with both buttons clicking, speed graph and colors" width="100%">
+
+<img src="docs/screenshot-2.png" alt="Cadence: profiles with their colors, Clicking settings and Minecraft settings" width="100%">
 
 </div>
+
+<br>
+
+## 💡 Why Cadence
+
+- 🛡️ **Never touches the game.** No injection, no mods, no reading of Minecraft's memory. To Windows and to the game, it is just a mouse.
+- 🎯 **Measured, not promised.** The **Stats** tab shows how precise your clicks are on your own PC, in microseconds, with a live speed graph.
+- ⚡ **No input lag.** It reads your mouse with Raw Input, so your aim is never slowed down, even at 8000 Hz.
+- 🧠 **Smart in game.** It pauses in menus, holds the click when you mine, and follows your own hotbar keys.
+- 🪶 **Light.** About 6 MB, 0% CPU when idle, and it hides to the tray while you play.
+- 🔄 **Always up to date.** New versions install with one click, each with its list of changes.
+- 🤝 **Direct support.** You talk to the developer: `zuan1` on Discord.
 
 <br>
 
