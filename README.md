@@ -6,10 +6,21 @@
 
 **The precise, lightweight autoclicker for Minecraft on Windows.**
 
-![Version](https://img.shields.io/badge/version-1.6.0-4ade80?style=flat-square)
+🇬🇧 English · [🇮🇹 Italiano](README.it.md)
+
+[![Version](https://img.shields.io/github/v/release/Riccardo-coder/Cadence?style=flat-square&label=version&color=4ade80)](../../releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/Riccardo-coder/Cadence/total?style=flat-square&label=downloads&color=1f2937)](../../releases)
 ![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-1f2937?style=flat-square)
 ![Minecraft](https://img.shields.io/badge/Minecraft-Java%20%26%20Bedrock-1f2937?style=flat-square)
 [![Discord](https://img.shields.io/badge/Discord-zuan1-5865F2?style=flat-square&logo=discord&logoColor=white)](#-buy-cadence)
+
+<br>
+
+[![Download Cadence.exe](https://img.shields.io/badge/Download-Cadence.exe-4ade80?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDcxMzBjIiBzdHJva2Utd2lkdGg9IjIuNiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMTIgNHYxMU03IDEwbDUgNSA1LTVNNSAyMGgxNCIvPjwvc3ZnPg==&labelColor=4ade80&logoColor=07130c)](https://github.com/Riccardo-coder/Cadence/releases/latest/download/Cadence.exe)
+
+<sub>Always the latest version · Windows 10 and 11 · <a href="../../releases/latest">installer and older versions</a></sub>
+
+<br><br>
 
 <img src="docs/screenshot.png" alt="Cadence: main screen, Minecraft settings and app settings" width="100%">
 
@@ -31,11 +42,11 @@ Cadence is a paid app. Each license unlocks **one PC**.
 
 **How to buy:** message **`zuan1`** on Discord.
 
-1. Download Cadence (below) and open it.
+1. [Download Cadence](https://github.com/Riccardo-coder/Cadence/releases/latest/download/Cadence.exe) and open it.
 2. Press **Copy** next to **YOUR PC ID** and send it to `zuan1` on Discord with the plan you want.
 3. After payment you receive your license key. Paste it into Cadence and press **Activate**.
 
-Your key is made for your PC only, and from v1.4 it keeps working after you reinstall Windows.
+Your key is made for your PC only, and it keeps working after you reinstall Windows.
 
 <br>
 
@@ -81,23 +92,11 @@ Your key is made for your PC only, and from v1.4 it keeps working after you rein
 - Status capsule with your **live CPS**.
 - **Profiles** and **any toggle key**, mouse side buttons included.
 - **Tray menu**, hide to tray, always on top, remembers its place.
-- On/off **sound**, "What's new" after each update.
 - **One-click updates** and an **English / Italian** interface.
 
 </td>
 </tr>
 </table>
-
-<br>
-
-## ⬇️ Download
-
-Get the latest version from **[Releases](../../releases/latest)**:
-
-- **`Cadence.exe`**: portable, just run it.
-- **`Cadence_x.x.x_x64-setup.exe`**: installer with a Start menu shortcut.
-
-Requires Windows 10 or 11. The exe is not signed yet, so SmartScreen may warn on first launch: choose **More info → Run anyway**.
 
 <br>
 
@@ -126,21 +125,88 @@ Requires Windows 10 or 11. The exe is not signed yet, so SmartScreen may warn on
 - **Only one copy runs at a time**, so clicks are never doubled.
 - **Minecraft running as administrator**: run Cadence as administrator too, or Windows blocks its clicks.
 - **Custom menu cursors**: a mod that draws its own cursor in menus can stop the inventory pause from working.
-- Settings and license are saved in `%APPDATA%\dev.autoclicker.desktop\`.
-- Cadence runs outside the game: it never injects into or reads from Minecraft. Clicks go through the normal Windows input, like a real mouse.
 
 </details>
 
 <br>
 
-## ⚖️ Fair use
+## 🔒 Privacy and safety
 
-Many multiplayer servers do not allow autoclickers. Check the rules of the server you play on: Cadence is meant for single player and for servers that allow it.
+- **Runs outside the game.** Cadence never injects into Minecraft and never reads its memory. Clicks go through the normal Windows input, like a real mouse.
+- **No account, no tracking.** It collects no data and sends nothing about you or your PC anywhere.
+- **Internet only for updates.** It connects only to GitHub, to check for a new version and download it when you choose. Your license is checked on your PC, offline.
+- **What it reads:** your mouse and keyboard (to know when you hold the button), and Minecraft's settings file, read-only, to learn your hotbar keys.
+- **Your files:** settings and license stay in `%APPDATA%\dev.autoclicker.desktop\`.
 
 <br>
 
+## ❓ FAQ
+
+<details>
+<summary><b>Can I get banned?</b></summary>
+
+<br>
+
+Cadence works like a real mouse and does not touch the game, but many multiplayer servers do not allow autoclickers at all, and they can spot automated clicking. Check the rules of the server you play on: Cadence is meant for single player and for servers that allow it.
+
+</details>
+
+<details>
+<summary><b>Which versions and clients does it work with?</b></summary>
+
+<br>
+
+Java Edition from 1.7 to the latest version, including Lunar, Badlion and other clients, and Bedrock Edition. Windowed, borderless and fullscreen.
+
+</details>
+
+<details>
+<summary><b>What if I reinstall Windows or change PC?</b></summary>
+
+<br>
+
+Reinstalling Windows is fine: your key keeps working. A license belongs to one PC, so for a new PC message `zuan1` on Discord.
+
+</details>
+
+<details>
+<summary><b>How do I update?</b></summary>
+
+<br>
+
+Cadence checks for new versions by itself. When one is out, an arrow appears at the top of the app: press it and Cadence downloads the update and restarts. Your settings and license stay.
+
+</details>
+
+<details>
+<summary><b>Windows says "Windows protected your PC". Is it safe?</b></summary>
+
+<br>
+
+That is SmartScreen: it warns about new apps that are not signed yet. Choose **More info → Run anyway**. It only appears the first time.
+
+</details>
+
+<details>
+<summary><b>Does it slow down my PC or the game?</b></summary>
+
+<br>
+
+No. It uses 0% CPU while idle and adds no delay to your mouse. You can hide it to the tray while you play to free memory too.
+
+</details>
+
+<details>
+<summary><b>Which plan should I choose?</b></summary>
+
+<br>
+
+Start with **Weekly** to try it in your own games. If you like it, **Lifetime** costs about as much as five months and includes all future updates.
+
+</details>
+
+<br>
 
 <div align="center">
-<br>
 <sub>Questions or a license? Message <b>zuan1</b> on Discord.</sub>
 </div>
