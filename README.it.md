@@ -12,6 +12,7 @@
 [![Download](https://img.shields.io/github/downloads/Riccardo-coder/Cadence/total?style=flat-square&label=download&color=1f2937)](../../releases)
 ![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-1f2937?style=flat-square)
 ![Minecraft](https://img.shields.io/badge/Minecraft-Java%20%26%20Bedrock-1f2937?style=flat-square)
+![Lingue](https://img.shields.io/badge/lingue-8-1f2937?style=flat-square)
 [![Discord](https://img.shields.io/badge/Discord-zuan1-5865F2?style=flat-square&logo=discord&logoColor=white)](#-acquista-cadence)
 
 <br>
@@ -37,6 +38,7 @@
 - ⚡ **Nessun ritardo.** Legge il mouse con Raw Input, quindi la tua mira non rallenta mai, anche a 8000 Hz.
 - 🧠 **Intelligente in gioco.** Si mette in pausa nei menu, tiene premuto quando scavi e segue i tuoi tasti della hotbar.
 - 🪶 **Leggero.** Circa 6 MB, 0% di CPU da spento, e si nasconde nella tray mentre giochi.
+- 🌍 **Parla la tua lingua.** Italiano, inglese, spagnolo, francese, tedesco, portoghese, polacco e russo, scelta in automatico da Windows.
 - 🔄 **Sempre aggiornato.** Le versioni nuove si installano con un clic, ognuna con l'elenco delle novità.
 - 🤝 **Assistenza diretta.** Parli con lo sviluppatore: `zuan1` su Discord.
 
