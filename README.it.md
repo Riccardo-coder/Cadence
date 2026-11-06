@@ -75,7 +75,7 @@ La chiave è creata solo per il tuo PC e resta valida anche se reinstalli Window
 <td width="50%" valign="top">
 
 ### 🎯 Click
-- **Da 1 a 20 CPS con un decimale**, per esempio 16.9. Trascina lo slider o scrivi il numero.
+- **Da 1 a 20 CPS con un decimale**, per esempio 16.9, o **fino a 100** alzando il limite di velocità. Trascina lo slider o scrivi il numero.
 - **Preciso** (velocità esatta) o **Variabile** (velocità casuale nel tuo intervallo).
 - **Sinistro, destro o entrambi** insieme, ognuno con la sua velocità.
 - **Clicca tenendo premuto**: clicca solo mentre tieni premuto il tasto.

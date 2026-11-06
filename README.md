@@ -75,7 +75,7 @@ Your key is made for your PC only, and it keeps working after you reinstall Wind
 <td width="50%" valign="top">
 
 ### 🎯 Clicking
-- **1 to 20 CPS with one decimal**, like 16.9. Drag the slider or type the number.
+- **1 to 20 CPS with one decimal**, like 16.9, or **up to 100** if you raise the speed limit. Drag the slider or type the number.
 - **Precise** (exact speed) or **Variable** (random speed in your range).
 - **Left, Right or Both** at once, each with its own speed.
 - **Hold to click**: clicks only while you hold the button.
