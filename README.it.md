@@ -56,6 +56,8 @@ Cadence è a pagamento. Ogni licenza attiva **un PC**.
 
 **Come acquistare:** scrivi a **`zuan1`** su Discord.
 
+**Pagamento:** 💳 PayPal o 🪙 crypto (BTC, ETH, LTC, USDT e altre). `zuan1` ti manda i dati per pagare.
+
 1. [Scarica Cadence](https://github.com/Riccardo-coder/Cadence/releases/latest/download/Cadence.exe) e aprilo.
 2. Premi **Copia** accanto a **IL TUO ID PC** e invialo a `zuan1` su Discord con il piano che vuoi.
 3. Dopo il pagamento ricevi la tua chiave di licenza. Incollala in Cadence e premi **Attiva**.
