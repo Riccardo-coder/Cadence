@@ -6,7 +6,7 @@
 
 **The precise, lightweight autoclicker for Minecraft on Windows.**
 
-![Version](https://img.shields.io/badge/version-1.4.0-4ade80?style=flat-square)
+![Version](https://img.shields.io/badge/version-1.5.0-4ade80?style=flat-square)
 ![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-1f2937?style=flat-square)
 ![Minecraft](https://img.shields.io/badge/Minecraft-Java%20%26%20Bedrock-1f2937?style=flat-square)
 [![Discord](https://img.shields.io/badge/Discord-zuan1-5865F2?style=flat-square&logo=discord&logoColor=white)](#-buy-cadence)
@@ -71,7 +71,7 @@ Your key is made for your PC only, and from v1.4 it keeps working after you rein
 - Every click lands within **microseconds** of its time.
 - **Raw Input**: adds no delay to your mouse, even at 8000 Hz.
 - Reacts **instantly** to your button, menus and windows.
-- **0% CPU** while idle. Live measurements in the **Stats** tab.
+- **0% CPU** while idle. Live measurements and a **speed graph** in the **Stats** tab.
 
 </td>
 <td width="50%" valign="top">
@@ -82,6 +82,7 @@ Your key is made for your PC only, and from v1.4 it keeps working after you rein
 - **Profiles** and **any toggle key**, mouse side buttons included.
 - **Tray menu**, hide to tray, always on top, remembers its place.
 - On/off **sound**, "What's new" after each update.
+- **One-click updates** and an **English / Italian** interface.
 
 </td>
 </tr>
