@@ -22,7 +22,7 @@
 
 <br><br>
 
-<img src="docs/screenshot.png" alt="Cadence: schermata principale, impostazioni di Minecraft e impostazioni dell'app" width="100%">
+<img src="docs/screenshot-it.png" alt="Cadence: schermata principale, impostazioni di Minecraft e impostazioni dell'app" width="100%">
 
 </div>
 
