@@ -56,7 +56,7 @@ Cadence is a paid app. Each license unlocks **one PC**.
 
 **How to buy:** message **`zuan1`** on Discord.
 
-**Payment:** 💳 PayPal or 🪙 crypto (BTC, ETH, LTC, USDT and more). `zuan1` sends you the details.
+**Payment:** 💳 PayPal or 🪙 crypto: **USDC or USDT on Solana** (recommended: near-zero fees, confirmed in seconds) or **LTC**. `zuan1` sends you the address.
 
 1. [Download Cadence](https://github.com/Riccardo-coder/Cadence/releases/latest/download/Cadence.exe) and open it.
 2. Press **Copy** next to **YOUR PC ID** and send it to `zuan1` on Discord with the plan you want.
