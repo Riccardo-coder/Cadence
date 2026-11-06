@@ -108,7 +108,7 @@ Your key is made for your PC only, and it keeps working after you reinstall Wind
 - Status capsule with your **live CPS**.
 - **Profiles** and **any toggle key**, mouse side buttons included.
 - **Tray menu**, hide to tray, always on top, remembers its place.
-- **One-click updates** and an **English / Italian** interface.
+- **One-click updates** and an interface in **8 languages**: English, Italian, Spanish, French, German, Portuguese, Polish and Russian.
 
 </td>
 </tr>

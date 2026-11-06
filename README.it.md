@@ -108,7 +108,7 @@ La chiave è creata solo per il tuo PC e resta valida anche se reinstalli Window
 - Capsula di stato con i tuoi **CPS dal vivo**.
 - **Profili** e **qualsiasi tasto di attivazione**, compresi i tasti laterali del mouse.
 - **Menu nella tray**, nascondi nella tray, sempre in primo piano, ricorda la posizione.
-- **Aggiornamenti con un clic** e interfaccia in **italiano e inglese**.
+- **Aggiornamenti con un clic** e interfaccia in **8 lingue**: italiano, inglese, spagnolo, francese, tedesco, portoghese, polacco e russo.
 
 </td>
 </tr>
