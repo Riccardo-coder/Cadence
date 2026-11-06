@@ -6,7 +6,7 @@
 
 **The precise, lightweight autoclicker for Minecraft on Windows.**
 
-![Version](https://img.shields.io/badge/version-1.5.0-4ade80?style=flat-square)
+![Version](https://img.shields.io/badge/version-1.6.0-4ade80?style=flat-square)
 ![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-1f2937?style=flat-square)
 ![Minecraft](https://img.shields.io/badge/Minecraft-Java%20%26%20Bedrock-1f2937?style=flat-square)
 [![Discord](https://img.shields.io/badge/Discord-zuan1-5865F2?style=flat-square&logo=discord&logoColor=white)](#-buy-cadence)
@@ -77,7 +77,7 @@ Your key is made for your PC only, and from v1.4 it keeps working after you rein
 <td width="50%" valign="top">
 
 ### 🎨 Comfort
-- Dark design with **six accent colors**.
+- Dark design with **any color you like**, a different one **per profile**.
 - Status capsule with your **live CPS**.
 - **Profiles** and **any toggle key**, mouse side buttons included.
 - **Tray menu**, hide to tray, always on top, remembers its place.
