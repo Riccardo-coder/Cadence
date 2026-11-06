@@ -13,7 +13,7 @@
 ![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-1f2937?style=flat-square)
 ![Minecraft](https://img.shields.io/badge/Minecraft-Java%20%26%20Bedrock-1f2937?style=flat-square)
 ![Lingue](https://img.shields.io/badge/lingue-8-1f2937?style=flat-square)
-[![Discord](https://img.shields.io/badge/Discord-zuan1-5865F2?style=flat-square&logo=discord&logoColor=white)](#-acquista-cadence)
+[![Discord](https://img.shields.io/badge/Discord-zuan01-5865F2?style=flat-square&logo=discord&logoColor=white)](#-acquista-cadence)
 
 <br>
 
@@ -40,7 +40,7 @@
 - 🪶 **Leggero.** Circa 6 MB, 0% di CPU da spento, e si nasconde nella tray mentre giochi.
 - 🌍 **Parla la tua lingua.** Italiano, inglese, spagnolo, francese, tedesco, portoghese, polacco e russo, scelta in automatico da Windows.
 - 🔄 **Sempre aggiornato.** Le versioni nuove si installano con un clic, ognuna con l'elenco delle novità.
-- 🤝 **Assistenza diretta.** Parli con lo sviluppatore: `zuan1` su Discord.
+- 🤝 **Assistenza diretta.** Parli con lo sviluppatore: `zuan01` su Discord.
 
 <br>
 
@@ -56,12 +56,12 @@ Cadence è a pagamento. Ogni licenza attiva **un PC**.
 | **1 anno** · 365 giorni | **€14,99** | Risparmi il 69% |
 | **A vita** | **€19,99** | 💎 Il più conveniente · tutti gli aggiornamenti futuri |
 
-**Come acquistare:** scrivi a **`zuan1`** su Discord.
+**Come acquistare:** scrivi a **`zuan01`** su Discord.
 
-**Pagamento:** 💳 PayPal o 🪙 crypto: **USDC o USDT su Solana** (consigliato: commissioni quasi zero, confermato in pochi secondi) oppure **LTC**. `zuan1` ti manda l'indirizzo.
+**Pagamento:** 💳 PayPal o 🪙 crypto: **USDC o USDT su Solana** (consigliato: commissioni quasi zero, confermato in pochi secondi) oppure **LTC**. `zuan01` ti manda l'indirizzo.
 
 1. [Scarica Cadence](https://github.com/Riccardo-coder/Cadence/releases/latest/download/Cadence.exe) e aprilo.
-2. Premi **Copia** accanto a **IL TUO ID PC** e invialo a `zuan1` su Discord con il piano che vuoi.
+2. Premi **Copia** accanto a **IL TUO ID PC** e invialo a `zuan01` su Discord con il piano che vuoi.
 3. Dopo il pagamento ricevi la tua chiave di licenza. Incollala in Cadence e premi **Attiva**.
 
 La chiave è creata solo per il tuo PC e resta valida anche se reinstalli Windows.
@@ -183,7 +183,7 @@ Java Edition dalla 1.7 all'ultima versione, compresi Lunar, Badlion e altri clie
 
 <br>
 
-Reinstallare Windows non è un problema: la chiave continua a funzionare. Una licenza vale per un PC, quindi per un PC nuovo scrivi a `zuan1` su Discord.
+Reinstallare Windows non è un problema: la chiave continua a funzionare. Una licenza vale per un PC, quindi per un PC nuovo scrivi a `zuan01` su Discord.
 
 </details>
 
@@ -226,5 +226,5 @@ Inizia con il **Settimanale** per provarlo nelle tue partite. Se ti piace, il pi
 <br>
 
 <div align="center">
-<sub>Domande o una licenza? Scrivi a <b>zuan1</b> su Discord.</sub>
+<sub>Domande o una licenza? Scrivi a <b>zuan01</b> su Discord.</sub>
 </div>

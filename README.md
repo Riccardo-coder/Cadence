@@ -13,7 +13,7 @@
 ![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-1f2937?style=flat-square)
 ![Minecraft](https://img.shields.io/badge/Minecraft-Java%20%26%20Bedrock-1f2937?style=flat-square)
 ![Languages](https://img.shields.io/badge/languages-8-1f2937?style=flat-square)
-[![Discord](https://img.shields.io/badge/Discord-zuan1-5865F2?style=flat-square&logo=discord&logoColor=white)](#-buy-cadence)
+[![Discord](https://img.shields.io/badge/Discord-zuan01-5865F2?style=flat-square&logo=discord&logoColor=white)](#-buy-cadence)
 
 <br>
 
@@ -40,7 +40,7 @@
 - 🪶 **Light.** About 6 MB, 0% CPU when idle, and it hides to the tray while you play.
 - 🌍 **Speaks your language.** English, Italian, Spanish, French, German, Portuguese, Polish and Russian, picked automatically from Windows.
 - 🔄 **Always up to date.** New versions install with one click, each with its list of changes.
-- 🤝 **Direct support.** You talk to the developer: `zuan1` on Discord.
+- 🤝 **Direct support.** You talk to the developer: `zuan01` on Discord.
 
 <br>
 
@@ -56,12 +56,12 @@ Cadence is a paid app. Each license unlocks **one PC**.
 | **1 Year** · 365 days | **€14.99** | Save 69% |
 | **Lifetime** | **€19.99** | 💎 Best value · all future updates |
 
-**How to buy:** message **`zuan1`** on Discord.
+**How to buy:** message **`zuan01`** on Discord.
 
-**Payment:** 💳 PayPal or 🪙 crypto: **USDC or USDT on Solana** (recommended: near-zero fees, confirmed in seconds) or **LTC**. `zuan1` sends you the address.
+**Payment:** 💳 PayPal or 🪙 crypto: **USDC or USDT on Solana** (recommended: near-zero fees, confirmed in seconds) or **LTC**. `zuan01` sends you the address.
 
 1. [Download Cadence](https://github.com/Riccardo-coder/Cadence/releases/latest/download/Cadence.exe) and open it.
-2. Press **Copy** next to **YOUR PC ID** and send it to `zuan1` on Discord with the plan you want.
+2. Press **Copy** next to **YOUR PC ID** and send it to `zuan01` on Discord with the plan you want.
 3. After payment you receive your license key. Paste it into Cadence and press **Activate**.
 
 Your key is made for your PC only, and it keeps working after you reinstall Windows.
@@ -183,7 +183,7 @@ Java Edition from 1.7 to the latest version, including Lunar, Badlion and other 
 
 <br>
 
-Reinstalling Windows is fine: your key keeps working. A license belongs to one PC, so for a new PC message `zuan1` on Discord.
+Reinstalling Windows is fine: your key keeps working. A license belongs to one PC, so for a new PC message `zuan01` on Discord.
 
 </details>
 
@@ -226,5 +226,5 @@ Start with **Weekly** to try it in your own games. If you like it, **Lifetime** 
 <br>
 
 <div align="center">
-<sub>Questions or a license? Message <b>zuan1</b> on Discord.</sub>
+<sub>Questions or a license? Message <b>zuan01</b> on Discord.</sub>
 </div>
